@@ -1,0 +1,1 @@
+export 'package:module_external_dependencies/flutter_triple.dart';
